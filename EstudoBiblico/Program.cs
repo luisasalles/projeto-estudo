@@ -7,7 +7,7 @@ namespace EstudoBiblico
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Testando ...");
+            Console.WriteLine("Tenha um bom dia.");
         }
     }
 }
